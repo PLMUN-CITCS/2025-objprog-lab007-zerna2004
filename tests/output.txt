@@ -1,0 +1,8 @@
+Is Java fun? true
+Is homework tiring? false
+Is 'a' greater than 'b'? false
+Are 'a' and 'b' equal? false
+Both conditions (isJavaFun && a<b): true
+Either condition (isJavaFun || isHomeworkTiring): true
+Logical NOT of isHomeworkTiring: true
+Exclusive OR (isJavaFun ^ isHomeworkTiring): true
